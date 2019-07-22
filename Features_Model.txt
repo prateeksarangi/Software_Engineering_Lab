@@ -1,0 +1,16 @@
+Most Essential features:-(Banana zaruri he)
+1. New account
+2. Loan
+3. Deposite
+4. Withdraw
+5. Account management
+
+Essential features:-(Sochenge banana he k nhi)
+1. Passbook management
+2. Security management
+3. FD, RD and other bla bla bla
+
+Additional features:-(Ghanta kuch nhi banega iska)
+1. Mobile banking
+2. Internet banking
+3. Costumer care
